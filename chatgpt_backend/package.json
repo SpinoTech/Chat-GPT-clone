@@ -1,0 +1,17 @@
+{
+  "name": "chatgpt_backend",
+  "version": "1.0.0",
+  "description": "this is the server side part of the chatgpt . here we can connect to the openAI model with our server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "openai": "^3.2.1"
+  }
+}
